@@ -1713,7 +1713,7 @@ check-more-types@2.24.0:
   version "2.24.0"
   resolved "https://registry.yarnpkg.com/check-more-types/-/check-more-types-2.24.0.tgz#1420ffb10fd444dcfc79b43891bbfffd32a84600"
 
-chokidar@^2.0.0, chokidar@^2.0.3:
+chokidar@^2.0.3:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-2.0.4.tgz#356ff4e2b0e8e43e322d18a372460bbcf3accd26"
   dependencies:
@@ -5581,12 +5581,6 @@ safer-eval@^1.2.3:
   resolved "https://registry.yarnpkg.com/safer-eval/-/safer-eval-1.2.3.tgz#73ba74a34bc8a07d6a44135c815fd18a8eebe7a0"
   dependencies:
     clones "^1.1.0"
-
-sass@^1.15.2:
-  version "1.15.2"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.15.2.tgz#539f464a61e29a9e4f560ec9dc2ccc5236db8474"
-  dependencies:
-    chokidar "^2.0.0"
 
 sax@^1.2.4, sax@~1.2.1, sax@~1.2.4:
   version "1.2.4"
