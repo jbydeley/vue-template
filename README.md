@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/jbydeley/vue-template.svg?branch=master)](https://travis-ci.com/jbydeley/vue-template)
+
 # Simple Vue Starter with Parcel
 
 ## Installation
